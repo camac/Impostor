@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OpenNTF Impostor
+Bundle-SymbolicName: org.openntf.impostor.hook;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.eclipse.osgi;bundle-version="3.4.3"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: org.openntf.impostor.hook
+Bundle-Vendor: Test
